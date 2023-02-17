@@ -6,8 +6,8 @@ The code first prepares the data by extracting features from previous lists of n
 
 The code utilizes the following packages:
 
-'datetime' to work with dates and times
-'numpy' for numerical computing
-'sklearn' to build and train the random forest regression model.
+-'datetime' to work with dates and times
+-'numpy' for numerical computing
+-'sklearn' to build and train the random forest regression model.
 
 The resulting predicted list of numbers is printed out at the end of the code
